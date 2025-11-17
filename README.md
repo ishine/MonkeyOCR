@@ -31,7 +31,7 @@ MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradi
 ## News 
 * ```2025.11.14 ``` 🚀 We release [MonkeyOCR-v1.5](https://arxiv.org/abs/2511.10390) Technical Report, achieving the best document parsing performance to date. [Demo](https://aiwrite.wps.cn/pdf/parse/web/).
 <p align="center">
-<a href="https://pic1.imgdb.cn/item/6916e7fe3203f7be00038681"><img src="https://pic1.imgdb.cn/item/6916e7fe3203f7be00038681.png" alt="6916e7fe3203f7be00038681.png"  width=800 border="0" /></a>
+<img src="./asserts/MonkeyOCR_v1_5.jpg" width=800 border="0" />
 <p>
 	
 * ```2025.07.10 ``` 🚀 We release [MonkeyOCR-pro-1.2B](https://huggingface.co/echo840/MonkeyOCR-pro-1.2B), — a leaner and faster version model that outperforms our previous 3B version in accuracy, speed, and efficiency.
@@ -49,7 +49,9 @@ MonkeyOCR adopts a Structure-Recognition-Relation (SRR) triplet paradigm, which 
 See detailed results below.
 
 ### Comparing MonkeyOCR with closed-source and extra large open-source VLMs.
-<img src="./asserts/MonkeyOCR_vs_VLMs.png" border="0">
+<p align="center">
+<img src="./asserts/MonkeyOCR_vs_VLMs.png" width=800 border="0">
+<p>
 
 ## Inference Speed (Pages/s) on Different GPUs and [PDF](https://drive.google.com/drive/folders/1geumlJmVY7UUKdr8324sYZ0FHSAElh7m?usp=sharing) Page Counts
 
